@@ -1,8 +1,8 @@
-#Blockchain Basics - Solidity
+**Blockchain Basics - Solidity**
 
 Created a simple ToDoList using Solidity that allows users to link their lists with their account and store the information of their tasks.
 
-#Project Guidelines: 
+**Project Guidelines:**
 
 In this project, You will develop a versatile and interactive Todo List using Solidity. The objective is to create a smart contract that enables users to manage their daily tasks efficiently on the blockchain. This project introduces fundamental Solidity concepts such as data structuring, function implementation, and user-specific data handling, while also exploring more advanced features to enrich the learning experience.
 
